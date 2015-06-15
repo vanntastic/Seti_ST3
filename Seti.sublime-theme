@@ -219,7 +219,7 @@
 	// Tab dropdown
 	{
 		"class": "show_tabs_dropdown_button",
-		"content_margin": [10,8],
+		"content_margin": [10,10],
 		"layer0.texture": "Seti_UI/Main/tabset-list-hover@2x.png",
 		"layer0.opacity": 1
 	},
@@ -850,7 +850,7 @@
 		"layer0.tint": [21,23,24], // is the same color of BG in widget file
 		"layer0.opacity": 1,
 		// "content_margin": [3,1,5,0] // control the search panel height , line padding also effects this
-		"content_margin": [8,8,8,8] // control the search panel height , line padding also effects this
+		"content_margin": [10,10,10,10] // control the search panel height , line padding also effects this
 	},
 	// options @ BOTTOM PANEL BUTTONS
 	// Text input dropdown
@@ -880,7 +880,7 @@
 	// Quick panel background
 	{
 		"class": "overlay_control",
-		"layer1.tint": [36,50,64],
+		"layer1.tint": [16,17,18],
 		"layer1.opacity": 1,
 		"layer0.opacity": 0,
 		"content_margin": 0
@@ -900,7 +900,7 @@
 
 	{
 		"class": "quick_panel",
-		"row_padding": [10,8],
+		"row_padding": [10,10],
 		"layer0.tint": [16,17,18],
 		"layer0.opacity": 1
 	},
