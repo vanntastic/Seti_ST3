@@ -849,8 +849,8 @@
 		"class": "text_line_control",
 		"layer0.tint": [21,23,24], // is the same color of BG in widget file
 		"layer0.opacity": 1,
-		// "content_margin": [3,1,5,0] // control the search panel height , line padding also effects this
-		"content_margin": [10,10,10,10] // control the search panel height , line padding also effects this
+		"content_margin": [3,1,5,0] // control the search panel height , line padding also effects this
+		// "content_margin": [10,10,10,10] // control the search panel height , line padding also effects this
 	},
 	// options @ BOTTOM PANEL BUTTONS
 	// Text input dropdown
